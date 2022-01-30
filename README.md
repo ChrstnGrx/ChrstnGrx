@@ -1,6 +1,6 @@
 ### 👋 &nbsp;Hey there! I'm Christine.
 
-I am software engineering student who is currently attending Polytechnique Montréal. My key interests are fullstack development, frontend, UX/UI and product management. Feel free to contact me if you are interested in any of my projects, or even just to chat up about the latest in the tech world.
+I am software engineering student who is currently attending Polytechnique Montréal. My key interests are fullstack development, frontend, UX/UI and product management. Feel free to contact me if you are interested in any of my projects.
 
 <!-- 
 Generate badges: https://shields.io/
@@ -22,8 +22,8 @@ Generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on [COVID 19 Voice Contact Tracing](https://github.com/PrabhavD/COVID19-Voice-Contact-Tracing) 🤝;
 - 💬 Ask me about anything. If I can't help, we can both learn something new 😉!;
 - 👔 Work Status: Seeking Fall 2022 Internships
- -->
-### 🛠 &nbsp;Tech Stack  
+
+### 🛠 &nbsp;Tech Stack   -->
 <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://shields.io/
 
@@ -40,7 +40,7 @@ Generate badges: https://shields.io/
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp;
-  <!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;-->
+  <!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)&nbsp;
   -->
 <!--### ⚙️ &nbsp;GitHub Analytics
