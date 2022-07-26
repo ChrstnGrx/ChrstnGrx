@@ -1,10 +1,9 @@
 ### 👋 &nbsp;Hey there! I'm Christine.
 
-I am software engineering student who is currently attending Polytechnique Montréal. My key interests are fullstack development, frontend, UX/UI and product management. Feel free to contact me if you are interested in any of my projects.
+I am software engineering student who is currently attending Polytechnique Montréal. My main interests are mobile, fullstack, UX/UI and product management. Feel free to contact me if you are interested in any of my projects.
 
 <!-- 
 Generate badges: https://shields.io/
-
 
 [![Github](https://img.shields.io/badge/-PrabhavD-000?style=flat&logo=Github&logoColor=white)](https://github.com/PrabhavD)
 [![Linkedin](https://img.shields.io/badge/-Prabhav_Desai-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhav-desai)
@@ -49,13 +48,3 @@ Generate badges: https://shields.io/
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhavD&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </a>
 </p>  -->
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
-
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/PrabhavD/PrabhavD.svg" />
-</p>
--->
-<!-- This readme was inspired by Murillo Comino's awesome github - https://github.com/onimur -->
