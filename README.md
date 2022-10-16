@@ -18,5 +18,3 @@
 - `Research assistant` for [Christophe Danjou](https://www.polymtl.ca/expertises/en/danjou-christophe)
 - `Lab assistant` for [INF1015 - Advanced OOP](https://www.polymtl.ca/programmes/cours/programmation-orientee-objet-avancee)
 - `Technology analyst intern` at [Morgan Stanley](https://www.morganstanley.com/)
-
-<!-- ### 🛠 &nbsp;Tech Stack -->
