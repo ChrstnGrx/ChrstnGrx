@@ -6,7 +6,7 @@
 [![GitLab](https://img.shields.io/badge/-ChrstnGrx-white?style=for-the-badge&logo=gitlab)](https://gitlab.com/ChrstnGrx)
 [![Github](https://img.shields.io/badge/-Christine_E_Groux-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/christineegroux/)
 
-## 💻 About Me
+## 👩‍💻 About Me
 
 - `Web dev intern` at [Nventive](https://nventive.com/en)
 - `Software eng. student` at [Polytechnique Montréal](https://www.polymtl.ca/en/)
