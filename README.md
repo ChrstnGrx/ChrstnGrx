@@ -11,6 +11,6 @@
 - `Web dev intern` at [Nventive](https://nventive.com/en)
 - `Software eng. student` at [Polytechnique Montréal](https://www.polymtl.ca/en/)
 - `Developer` at [PolyAI](https://polyai.ca)
-- `Teaching Assistant` for [LOG2810 - Discrete Math](https://www.polymtl.ca/programmes/cours/structures-discretes)
+- `Teaching assistant` for [LOG2810 - Discrete Math](https://www.polymtl.ca/programmes/cours/structures-discretes)
 
 <!-- ### 🛠 &nbsp;Tech Stack -->
