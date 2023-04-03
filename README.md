@@ -7,12 +7,16 @@
 [![Github](https://img.shields.io/badge/-Christine_E_Groux-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/christineegroux/)
 
 ## 👩‍💻 About Me
-- `Web dev intern` at [Nventive](https://nventive.com/en)
+- `Exchange CS student` at [EPFL](https://www.epfl.ch)
 - `SWE student` at [Polytechnique Montréal](https://www.polymtl.ca/en/)
 - `Developer` at [PolyAI](https://polyai.ca)
-- `Teaching assistant` for [LOG2810 - Discrete Math](https://www.polymtl.ca/programmes/cours/structures-discretes)
+
+## 🔮 Future Projects
+- `SWE intern` at Google NY
 
 ## 💾 Past Experiences
+- `Teaching assistant` for [LOG2810 - Discrete Math](https://www.polymtl.ca/programmes/cours/structures-discretes)
+- `Web dev intern` at [Nventive](https://nventive.com/en)
 - `Mobile dev intern` at [Nventive](https://nventive.com/en)
 - `Communications director` at [PolyAI](https://polyai.ca)
 - `Research assistant` for [Christophe Danjou](https://www.polymtl.ca/expertises/en/danjou-christophe)
