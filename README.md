@@ -12,7 +12,7 @@
 - `Developer` at [PolyAI](https://polyai.ca)
 
 ## 🔮 Future Projects
-- `SWE intern` at Google NY
+- `SWE intern` at Google NYC
 
 ## 💾 Past Experiences
 - `Teaching assistant` for [LOG2810 - Discrete Math](https://www.polymtl.ca/programmes/cours/structures-discretes)
