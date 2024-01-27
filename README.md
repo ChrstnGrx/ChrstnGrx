@@ -7,14 +7,13 @@
 [![Github](https://img.shields.io/badge/-Christine_E_Groux-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/christineegroux/)
 
 ## 👩‍💻 About Me
-- `Exchange CS student` at [EPFL](https://www.epfl.ch)
 - `SWE student` at [Polytechnique Montréal](https://www.polymtl.ca/en/)
-- `Developer` at [PolyAI](https://polyai.ca)
-
-## 🔮 Future Projects
-- `SWE intern` at Google NYC
+Looking for a full-time SWE job starting this summer!
 
 ## 💾 Past Experiences
+- `SWE intern` at Google NYC
+- `Developer` at [PolyAI](https://polyai.ca)
+- `Exchange CS student` at [EPFL](https://www.epfl.ch)
 - `Teaching assistant` for [LOG2810 - Discrete Math](https://www.polymtl.ca/programmes/cours/structures-discretes)
 - `Web dev intern` at [Nventive](https://nventive.com/en)
 - `Mobile dev intern` at [Nventive](https://nventive.com/en)
