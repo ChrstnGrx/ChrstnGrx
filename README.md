@@ -8,6 +8,7 @@
 
 ## 👩‍💻 About Me
 - `SWE student` at [Polytechnique Montréal](https://www.polymtl.ca/en/)
+
 Looking for a full-time SWE job starting this summer!
 
 ## 💾 Past Experiences
